@@ -44,6 +44,9 @@ local data = {
     [52] = { id = 52, name = "RCalf" },
     [53] = { id = 53, name = "RFoot" },
     [54] = { id = 54, name = "RToe" },
+    [201] = { id = 201, name = "Belly" },
+    [301] = { id = 301, name = "RBreast" },
+    [302] = { id = 302, name = "LBreast" },
 }
 
 bonesById = setmetatable({},{
